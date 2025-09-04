@@ -22,7 +22,6 @@ Supports multiple datasets:
 
 Generic ResNet18-based architecture for all datasets with flexible input channels.
 
-Handles train/validation/test splits automatically.
 
 Supports both classification and regression loss functions (CrossEntropyLoss and MSELoss).
 
