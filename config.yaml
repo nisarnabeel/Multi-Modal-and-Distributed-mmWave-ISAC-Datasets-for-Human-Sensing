@@ -1,0 +1,5 @@
+dataset: mmWGesture        # Change to any dataset
+epochs: 10
+batch_size: 32
+lr: 0.001
+background: false       # For mmW-Loc and mmW-GaitID
