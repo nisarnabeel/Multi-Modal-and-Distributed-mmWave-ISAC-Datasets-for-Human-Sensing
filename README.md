@@ -8,17 +8,17 @@ Features
 
 Supports multiple datasets:
 
-mmWGesture – mmWave gesture recognition (classification)
+**mmWGesture** – mmWave gesture recognition (classification)
 
-5GmmGesture – 5G mmWave gesture recognition (classification)
+**5GmmGesture** – 5G mmWave gesture recognition (classification)
 
-mmWPose – mmWave skeletal pose estimation (regression)
+**mmWPose** – mmWave skeletal pose estimation (regression)
 
-DISAC-mmVRPose – VR-based mmWave pose estimation (regression)
+**DISAC-mmVRPose** – VR-based mmWave pose estimation (regression)
 
-mmW-Loc – mmWave localization with optional background subtraction (classification)
+**mmW-Loc** – mmWave localization with optional background subtraction (classification)
 
-mmW-GaitID – mmWave gait identification with optional background subtraction (classification)
+**mmW-GaitID** – mmWave gait identification with optional background subtraction (classification)
 
 Generic ResNet18-based architecture for all datasets with flexible input channels.
 
