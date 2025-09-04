@@ -26,4 +26,4 @@ Handles train/validation/test splits automatically.
 
 Supports both classification and regression loss functions (CrossEntropyLoss and MSELoss).
 
-Easy to configure using a YAML file (config.yaml) for hyperparameters such as learning rate, epochs, and batch size.
+Usage:python main.py
