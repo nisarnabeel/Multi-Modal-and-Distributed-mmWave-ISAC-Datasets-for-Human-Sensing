@@ -1,4 +1,4 @@
-dataset: mmWGesture        # Change to any dataset
+dataset: mmWGesture        # Change to any dataset 5GmmGesture, mmWPose, DISAC-mmVRPose..
 epochs: 10
 batch_size: 32
 lr: 0.001
