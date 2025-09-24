@@ -7,6 +7,16 @@ This repository provides a PyTorch-based framework for training and evaluating d
 ![overview_dataset_jeroen (2)_page-0001](https://github.com/user-attachments/assets/e848e512-4d0c-451b-b28e-bb54a9ada3d8)
 
 
+## Dataset Download
+
+You can download the mmHSense dataset from [IEEE DataPort](https://ieee-dataport.org/documents/mmhsense-multi-modal-and-distributed-mmwave-isac-datasets-human-sensing).
+
+1. Download the ZIP file.
+2. Extract all datasets.
+3. Place the extracted folders and place the files in the root directory of this repository, e.g.:
+
+
+
 Supports multiple datasets:
 
 **mmWGesture** – mmWave gesture recognition (classification)
