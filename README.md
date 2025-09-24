@@ -4,7 +4,7 @@
 
 This repository provides a PyTorch-based framework for training and evaluating deep learning models on various mmWave ISAC datasets, including gesture recognition, pose estimation, localization, and gait identification. It supports classification and regression tasks, and includes options for background subtraction where applicable.
 
-<iframe src="https://github.com/user-attachments/files/22512851/overview_dataset_jeroen.2.pdf" width="700" height="500"></iframe>
+![overview_dataset_jeroen (2)_page-0001](https://github.com/user-attachments/assets/e848e512-4d0c-451b-b28e-bb54a9ada3d8)
 
 
 Supports multiple datasets:
