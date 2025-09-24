@@ -1,6 +1,6 @@
 # Multi-Modal-and-Distributed-mmWave-ISAC-Datasets-for-Human-Sensing
 
-**mmWave ISAC Datasets**
+**mmWave ISAC Datasets: mmHSense**
 
 This repository provides a PyTorch-based framework for training and evaluating deep learning models on various mmWave ISAC datasets, including gesture recognition, pose estimation, localization, and gait identification. It supports classification and regression tasks, and includes options for background subtraction where applicable.
 
