@@ -36,4 +36,18 @@ Generic ResNet18-based architecture for all datasets with flexible input channel
 
 Supports both classification and regression loss functions (CrossEntropyLoss and MSELoss).
 
+## Configuration
+
+All dataset options and hyperparameters are set via `config.yaml`. 
+You can edit this file to choose your dataset, adjust training parameters, or enable optional features.
+
+Example `config.yaml`:
+```yaml
+dataset: mmWGesture        # Options: mmWGesture, 5GmmGesture, mmWPose, DISAC-mmVRPose, mmW-Loc, mmW-GaitID
+epochs: 10
+batch_size: 32
+lr: 0.001
+background: false           # Only for mmW-Loc and mmW-GaitID
+
+
 Usage:python main.py
