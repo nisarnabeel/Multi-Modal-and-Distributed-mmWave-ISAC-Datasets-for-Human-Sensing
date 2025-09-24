@@ -13,7 +13,7 @@ You can download the mmHSense dataset from [IEEE DataPort](https://ieee-dataport
 
 1. Download the ZIP file.
 2. Extract all datasets.
-3. Place the extracted folders and place the files in the root directory of this repository
+3. Place the extracted folders and place the files in the root directory of this repository.
 
 
 ## Features
