@@ -49,3 +49,14 @@ background: false           # Only for mmW-Loc and mmW-GaitID
 
 
 Usage:python main.py
+
+
+@misc{bhat2025mmhsensemultimodaldistributedmmwave,
+      title={mmHSense: Multi-Modal and Distributed mmWave ISAC Datasets for Human Sensing}, 
+      author={Nabeel Nisar Bhat and Maksim Karnaukh and Stein Vandenbroeke and Wouter Lemoine and Jakob Struye and Jesus Omar Lacruz and Siddhartha Kumar and Mohammad Hossein Moghaddam and Joerg Widmer and Rafael Berkvens and Jeroen Famaey},
+      year={2025},
+      eprint={2509.21396},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV},
+      url={https://arxiv.org/abs/2509.21396}, 
+}
