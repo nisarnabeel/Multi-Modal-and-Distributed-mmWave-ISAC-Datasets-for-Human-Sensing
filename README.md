@@ -60,3 +60,16 @@ Usage:python main.py
       primaryClass={cs.CV},
       url={https://arxiv.org/abs/2509.21396}, 
 }
+
+
+📚 Research Using the mmHSense Dataset
+
+The mmHSense dataset has been adopted by recent state-of-the-art works to advance human sensing at mmWave frequencies:
+
+mmGAN: Semi-Supervised GAN for Improved Gesture Recognition in mmWave ISAC Systems
+This work leverages mmHSense to demonstrate how semi-supervised GAN-based learning significantly improves gesture recognition performance under limited labeled data conditions.
+IEEE Xplore: https://ieeexplore.ieee.org/document/11317966
+
+Beyond Sub-6 GHz: Leveraging mmWave Wi-Fi for Gait-Based Person Identification
+This study utilizes mmHSense to explore gait-based person identification using mmWave Wi-Fi, highlighting the potential of beyond–sub-6 GHz sensing for privacy-preserving biometric recognition.
+arXiv: https://arxiv.org/abs/2510.08160
