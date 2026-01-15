@@ -48,15 +48,14 @@ background: false           # Only for mmW-Loc and mmW-GaitID
 
 ## Citation
 
-@misc{bhat2025mmhsensemultimodaldistributedmmwave,
-      title={mmHSense: Multi-Modal and Distributed mmWave ISAC Datasets for Human Sensing}, 
-      author={Nabeel Nisar Bhat and Maksim Karnaukh and Stein Vandenbroeke and Wouter Lemoine and Jakob Struye and Jesus Omar Lacruz and Siddhartha Kumar and Mohammad Hossein Moghaddam and Joerg Widmer and Rafael Berkvens and Jeroen Famaey},
-      year={2025},
-      eprint={2509.21396},
-      archivePrefix={arXiv},
-      primaryClass={cs.CV},
-      url={[https://arxiv.org/abs/2509.21396](https://arxiv.org/abs/2509.21396)}, 
+@article{bhat2025mmhsense,
+  title={mmHSense: Multi-Modal and Distributed mmWave ISAC Datasets for Human Sensing},
+  author={Bhat, Nabeel Nisar and Karnaukh, Maksim and Vandenbroeke, Stein and Lemoine, Wouter and Struye, Jakob and Lacruz, Jesus Omar and Kumar, Siddhartha and Moghaddam, Mohammad Hossein and Widmer, Joerg and Berkvens, Rafael and others},
+  journal={arXiv preprint arXiv:2509.21396},
+  year={2025}
 }
+https://arxiv.org/abs/2509.21396](https://arxiv.org/abs/2509.21396)
+
 ## 📚 Research Using the mmHSense Dataset
 The mmHSense dataset has been adopted by recent state-of-the-art works to advance human sensing at mmWave frequencies:
 
