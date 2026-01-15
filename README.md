@@ -50,7 +50,7 @@ background: false           # Only for mmW-Loc and mmW-GaitID
 
 Usage:python main.py
 
-
+## **Citation**
 @misc{bhat2025mmhsensemultimodaldistributedmmwave,
       title={mmHSense: Multi-Modal and Distributed mmWave ISAC Datasets for Human Sensing}, 
       author={Nabeel Nisar Bhat and Maksim Karnaukh and Stein Vandenbroeke and Wouter Lemoine and Jakob Struye and Jesus Omar Lacruz and Siddhartha Kumar and Mohammad Hossein Moghaddam and Joerg Widmer and Rafael Berkvens and Jeroen Famaey},
@@ -62,7 +62,7 @@ Usage:python main.py
 }
 
 
-📚 Research Using the mmHSense Dataset
+## 📚 Research Using the mmHSense Dataset
 
 The mmHSense dataset has been adopted by recent state-of-the-art works to advance human sensing at mmWave frequencies:
 
