@@ -40,15 +40,13 @@ All dataset options and hyperparameters are set via `config.yaml`.
 You can edit this file to choose your dataset, adjust training parameters, or enable optional features.
 
 Example `config.yaml`:
-
-```yaml
 dataset: mmWGesture         # Options: mmWGesture, 5GmmGesture, mmWPose, DISAC-mmVRPose, mmW-Loc, mmW-GaitID
 epochs: 10
 batch_size: 32
 lr: 0.001
 background: false           # Only for mmW-Loc and mmW-GaitID
 
-Citation
+## Citation
 
 @misc{bhat2025mmhsensemultimodaldistributedmmwave,
       title={mmHSense: Multi-Modal and Distributed mmWave ISAC Datasets for Human Sensing}, 
@@ -59,13 +57,11 @@ Citation
       primaryClass={cs.CV},
       url={[https://arxiv.org/abs/2509.21396](https://arxiv.org/abs/2509.21396)}, 
 }
-📚 Research Using the mmHSense Dataset
+## 📚 Research Using the mmHSense Dataset
 The mmHSense dataset has been adopted by recent state-of-the-art works to advance human sensing at mmWave frequencies:
 
-mmGAN: Semi-Supervised GAN for Improved Gesture Recognition in mmWave ISAC Systems This work leverages mmHSense to demonstrate how semi-supervised GAN-based learning significantly improves gesture recognition performance under limited labeled data conditions.
+mmGAN: Semi-Supervised GAN for Improved Gesture Recognition in mmWave ISAC Systems This work leverages mmHSense to demonstrate how semi-supervised GAN-based learning significantly improves gesture recognition performance under limited labeled data conditions. - https://ieeexplore.ieee.org/document/11317966
 
-View on IEEE Xplore
 
-Beyond Sub-6 GHz: Leveraging mmWave Wi-Fi for Gait-Based Person Identification This study utilizes mmHSense to explore gait-based person identification using mmWave Wi-Fi, highlighting the potential of beyond–sub-6 GHz sensing for privacy-preserving biometric recognition.
+Beyond Sub-6 GHz: Leveraging mmWave Wi-Fi for Gait-Based Person Identification This study utilizes mmHSense to explore gait-based person identification using mmWave Wi-Fi, highlighting the potential of beyond–sub-6 GHz sensing for privacy-preserving person identification. - https://arxiv.org/abs/2510.08160
 
-View on arXiv
