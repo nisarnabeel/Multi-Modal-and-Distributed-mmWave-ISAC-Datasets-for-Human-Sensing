@@ -1,3 +1,12 @@
+## License
+
+This dataset and accompanying materials are released under the  
+**Creative Commons Attribution 4.0 International (CC BY 4.0)** license.
+
+You are free to use, share, and adapt the material for any purpose,  
+provided that appropriate credit is given to the authors.
+
+
 # mmHSense: Multi-Modal and Distributed mmWave ISAC Datasets for Human-Sensing
 
 This repository provides a PyTorch-based framework for training and evaluating deep learning models on various mmWave ISAC datasets, including gesture recognition, pose estimation, localization, and gait identification. It supports classification and regression tasks, and includes options for background subtraction where applicable.
