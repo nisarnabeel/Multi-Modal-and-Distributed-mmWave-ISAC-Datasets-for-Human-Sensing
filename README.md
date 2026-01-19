@@ -75,7 +75,7 @@ The mmHSense dataset is actively used by recent state-of-the-art research to adv
 
 🚀 mmGAN: Semi-Supervised GAN for mmWave Gesture Recognition
 
-This work shows that semi-supervised GANs trained on mmHSense significantly improve gesture recognition accuracy, particularly when labeled data is scarce—highlighting the dataset’s value for data-efficient ISAC learning.
+This work shows that semi-supervised GANs trained on mmHSense significantly improve gesture recognition accuracy, particularly when labeled data is scarce, highlighting the dataset’s value for data-efficient ISAC learning.
 🔗 https://ieeexplore.ieee.org/document/11317966
 
 🚶 Beyond Sub-6 GHz: mmWave Wi-Fi for Gait-Based Person Identification
