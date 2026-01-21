@@ -85,6 +85,9 @@ Using mmHSense, this study explores gait-based person identification with mmWave
 
 ⏱️ Millimeter-Wave Gesture Recognition in ISAC: Does Reducing Sensing Airtime Hamper Accuracy?
 
-This paper evaluates how reducing sensing airtime affects mmWave gesture recognition using power-per-beam-pair measurements from mmHSense. Results show that 25% sensing airtime causes only a 0.15% accuracy drop, confirming that mmWave ISAC can deliver high-quality sensing with minimal overhead, while preserving high communication throughput for applications such as wireless XR.
-🔗 https://arxiv.org/abs/2601.10733
+This paper investigates the impact of reducing sensing airtime on mmWave gesture recognition using power-per-beam-pair measurements from mmHSense. Our results show that reducing sensing to just 25% of the airtime leads to only a 0.15% drop in accuracy, demonstrating that mmWave ISAC can achieve high-quality sensing with minimal overhead. This approach preserves maximum communication throughput, making it ideal for wireless XR and other real-time applications.
+
+Paper: https://arxiv.org/abs/2601.10733
+
+Code: https://github.com/JakobStruye/isac-tradeoff
 
