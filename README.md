@@ -83,7 +83,7 @@ This work shows that semi-supervised GANs trained on mmHSense significantly impr
 Using mmHSense, this study explores gait-based person identification with mmWave Wi-Fi, demonstrating a privacy-preserving alternative to vision-based systems and emphasizing the potential of beyond-sub-6 GHz sensing.
 🔗 https://arxiv.org/abs/2510.08160
 
-⏱️ ISAC Gesture Recognition with Reduced Sensing Airtime
+⏱️ Millimeter-Wave Gesture Recognition in ISAC: Does Reducing Sensing Airtime Hamper Accuracy?
 
 This paper evaluates how reducing sensing airtime affects mmWave gesture recognition using power-per-beam-pair measurements from mmHSense. Results show that 25% sensing airtime causes only a 0.15% accuracy drop, confirming that mmWave ISAC can deliver high-quality sensing with minimal overhead, while preserving high communication throughput for applications such as wireless XR.
 🔗 https://arxiv.org/abs/2601.10733
