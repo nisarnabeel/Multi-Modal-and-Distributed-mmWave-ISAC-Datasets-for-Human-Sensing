@@ -73,7 +73,7 @@ https://arxiv.org/abs/2509.21396](https://arxiv.org/abs/2509.21396)
 
 The mmHSense dataset is actively used by recent state-of-the-art research to advance mmWave human sensing and Integrated Sensing and Communications (ISAC). These works demonstrate the dataset’s applicability across gesture recognition, gait analysis, and sensing–communication trade-off studies.
 
-🚀 mmGAN: Semi-Supervised GAN for mmWave Gesture Recognition
+🚀 mmGAN: Semi-Supervised GAN for Improved Gesture Recognition in mmWave ISAC Systems
 
 This work shows that semi-supervised GANs trained on mmHSense significantly improve gesture recognition accuracy, particularly when labeled data is scarce, highlighting the dataset’s value for data-efficient ISAC learning.
 🔗 https://ieeexplore.ieee.org/document/11317966
