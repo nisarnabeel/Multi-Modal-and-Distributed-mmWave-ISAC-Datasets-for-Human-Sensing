@@ -67,7 +67,7 @@ background: false
   journal={arXiv preprint arXiv:2509.21396},
   year={2025}
 }
-https://arxiv.org/abs/2509.21396](https://arxiv.org/abs/2509.21396)
+[https://arxiv.org/abs/2509.21396](https://arxiv.org/abs/2509.21396)
 
 ## 📚 Research Using the mmHSense Dataset
 
