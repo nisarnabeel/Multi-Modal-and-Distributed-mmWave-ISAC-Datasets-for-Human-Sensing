@@ -57,6 +57,7 @@ epochs: 10
 batch_size: 32
 lr: 0.001
 background: false
+Usage: python main.py
 ```    
 
 ## Citation
