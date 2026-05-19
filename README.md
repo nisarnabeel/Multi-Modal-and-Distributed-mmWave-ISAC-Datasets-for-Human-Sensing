@@ -123,7 +123,7 @@ Shows that semi-supervised GANs trained on mmHSense significantly improve gestur
 
 **Beyond Sub-6 GHz: mmWave Wi-Fi for Gait-Based Person Identification**
 Explores gait-based person identification with mmWave Wi-Fi as a privacy-preserving alternative to vision-based systems.
-→ [arXiv](https://arxiv.org/abs/2510.08160)
+→ [arXiv](https://arxiv.org/abs/2510.08160)   [Code](https://github.com/MaksimKarnaukh/MasterThesis_mmWavePI)
 
 **Millimeter-Wave Gesture Recognition in ISAC: Does Reducing Sensing Airtime Hamper Accuracy?**
 Demonstrates that reducing sensing to just 25% of airtime causes only a 0.15% accuracy drop — enabling high-quality sensing with minimal communication overhead, ideal for wireless XR applications.
