@@ -1,0 +1,6 @@
+dataset: mmWGesture   # mmWGesture | 5GmmGesture | mmWPose | DISAC-mmVRPose | mmW-Loc | mmW-GaitID
+data_dir: /path/to/mmhsense  # folder containing the dataset subfolders (mmWGesture/, 5GmmGesture/, ...)
+epochs: 10
+batch_size: 32
+lr: 0.001
+background: false     # Enable background subtraction (mmW-Loc and mmW-GaitID only)
